@@ -16,6 +16,14 @@
         
         
 }
+
+.vsm .acl-selected {
+    border-style: solid
+}
+.vsm .acl-not-selected {
+    border-style: none
+}
+
 .vsm .loginButton {
     top: 4px;
     right:4px;
