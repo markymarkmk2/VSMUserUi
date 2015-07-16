@@ -26,22 +26,47 @@
 .vsm .acl-not-selected {
     border-style: none
 }
-.vsm .Leuchttisch{
-    background-color: #f0f0e0; /* LightGray */
+.Leuchttisch {
+    background-color: #f0f0f0; /* LightGray */
 }
-.vsm .Leuchttisch .v-panel-content-Leuchttisch {
-    background-color: #f0f0e0; /* LightGray */
+.v-caption-Leuchtbild {
+    background-color: #f0f0f0; /* LightGray */
+    font-size: 12px;
+    color: #505050;
+    border-color: darkgrey;
+    border-style: solid;
+    border-width: thin;
+    padding-left: 5px;
+    text-align: center;
+}
+.v-gridlayout .v-gridlayout-Leuchtgrid .Leuchtgrid {
+    background-color: #f0f0f0; /* LightGray */  
     
 }
+.LtImage {
+    background-color: #f0f0f0  !important; /* LightGray */    
+}
+.Leuchtbild {
+    background-color: #f0f0f0  !important; /* LightGray */
+    border-color: darkgrey;
+    border-style: solid;
+    border-width: thin;
+}
+.Leuchtgrid {
+    background-color: #f0f0f0 !important; /* LightGray */
+    border-color: darkgrey;
+    border-style: solid;
+    border-width: thin;
+}
 .vsm .v-embedded-image {
-    background-color: #f0f0e0; /* LightGray */
+    background-color: #f0f0f0; /* LightGray */
     border-color: darkgrey;
     border-style: solid;
     border-width: thin;
     
 }
 .vsm .LeuchtBild .v-verticallayout-LeuchtBild {
-    background-color: #f0f0e0; /* LightGray */
+    background-color: #f0f0f0; /* LightGray */
     border-color: darkgrey;
     border-style: solid;
     border-width: thin;    
